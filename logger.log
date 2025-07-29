@@ -1,0 +1,392 @@
+{"status":"start","time":"2025-03-11T13:41:47.761Z","request":"/","method":"GET"}
+{"status":"end","time":"2025-03-11T13:41:47.774Z","request":"/","method":"GET","response":200}
+{"status":"start","time":"2025-03-11T13:41:55.743Z","request":"/all","method":"GET"}
+{"status":"end","time":"2025-03-11T13:41:55.750Z","request":"/all","method":"GET","response":404}
+{"status":"start","time":"2025-03-11T13:42:20.324Z","request":"/palette","method":"GET"}
+{"status":"end","time":"2025-03-11T13:42:20.333Z","request":"/palette","method":"GET","response":404}
+{"status":"start","time":"2025-03-11T13:42:32.493Z","request":"/","method":"GET"}
+{"status":"end","time":"2025-03-11T13:42:32.501Z","request":"/","method":"GET","response":200}
+{"status":"start","time":"2025-03-11T13:43:26.074Z","request":"/colors/n","method":"GET"}
+{"status":"end","time":"2025-03-11T13:43:26.085Z","request":"/colors/n","method":"GET","response":200}
+{"status":"start","time":"2025-03-11T13:44:01.012Z","request":"/palette","method":"GET"}
+{"status":"end","time":"2025-03-11T13:44:01.025Z","request":"/palette","method":"GET","response":404}
+{"status":"start","time":"2025-03-11T13:44:39.450Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-03-11T13:44:39.461Z","request":"/palette/all","method":"GET","response":500}
+{"status":"start","time":"2025-03-11T13:44:59.699Z","request":"/palette/all?1=3","method":"GET"}
+{"status":"end","time":"2025-03-11T13:44:59.710Z","request":"/palette/all?1=3","method":"GET","response":500}
+{"status":"start","time":"2025-03-11T13:45:34.271Z","request":"/palette/all?skip=1&count=2","method":"GET"}
+{"status":"end","time":"2025-03-11T13:45:34.280Z","request":"/palette/all?skip=1&count=2","method":"GET","response":500}
+{"status":"start","time":"2025-03-11T13:47:57.641Z","request":"/palette/create","method":"POST"}
+{"status":"start","time":"2025-03-11T13:48:05.241Z","request":"/palette/create","method":"POST"}
+{"status":"start","time":"2025-03-11T13:49:43.292Z","request":"/palette/create","method":"POST"}
+{"status":"start","time":"2025-03-11T13:50:21.524Z","request":"/palette/alll","method":"POST"}
+{"status":"end","time":"2025-03-11T13:50:21.532Z","request":"/palette/alll","method":"POST","response":404}
+{"status":"start","time":"2025-03-11T13:50:31.275Z","request":"/palette/alll","method":"GET"}
+{"status":"end","time":"2025-03-11T13:50:31.281Z","request":"/palette/alll","method":"GET","response":404}
+{"status":"start","time":"2025-03-11T13:50:36.111Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-03-11T13:50:36.120Z","request":"/palette/all","method":"GET","response":500}
+{"status":"start","time":"2025-03-11T13:51:52.658Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-03-11T13:51:52.671Z","request":"/palette/all","method":"GET","response":500}
+{"status":"start","time":"2025-03-11T13:51:54.661Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-03-11T13:51:54.668Z","request":"/palette/all","method":"GET","response":500}
+{"status":"start","time":"2025-03-11T13:51:56.127Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-03-11T13:51:56.134Z","request":"/palette/all","method":"GET","response":500}
+{"status":"start","time":"2025-03-11T13:52:08.764Z","request":"/palette/create","method":"POST"}
+{"status":"start","time":"2025-03-11T13:52:59.352Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-03-11T13:52:59.388Z","request":"/palette/create","method":"POST","response":500}
+{"status":"start","time":"2025-05-06T12:22:36.703Z","request":"/","method":"GET"}
+{"status":"end","time":"2025-05-06T12:22:36.832Z","request":"/","method":"GET","response":200}
+{"status":"start","time":"2025-05-06T12:22:36.873Z","request":"/favicon.ico","method":"GET"}
+{"status":"end","time":"2025-05-06T12:22:36.884Z","request":"/favicon.ico","method":"GET","response":404}
+{"status":"start","time":"2025-05-13T08:11:08.912Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:11:09.012Z","request":"/palette/all","method":"GET","response":500}
+{"status":"start","time":"2025-05-13T08:11:33.084Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:11:33.114Z","request":"/palette/all","method":"GET","response":500}
+{"status":"start","time":"2025-05-13T08:15:30.266Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:15:30.286Z","request":"/palette/all","method":"GET","response":500}
+{"status":"start","time":"2025-05-13T08:15:30.327Z","request":"/favicon.ico","method":"GET"}
+{"status":"end","time":"2025-05-13T08:15:30.339Z","request":"/favicon.ico","method":"GET","response":404}
+{"status":"start","time":"2025-05-13T08:15:42.882Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:15:42.897Z","request":"/palette/all","method":"GET","response":500}
+{"status":"start","time":"2025-05-13T08:16:18.898Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:16:18.914Z","request":"/palette/all","method":"GET","response":500}
+{"status":"start","time":"2025-05-13T08:16:35.907Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:16:35.921Z","request":"/palette/all","method":"GET","response":500}
+{"status":"start","time":"2025-05-13T08:16:37.637Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:16:37.647Z","request":"/palette/all","method":"GET","response":500}
+{"status":"start","time":"2025-05-13T08:19:07.894Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:19:07.913Z","request":"/palette/all","method":"GET","response":500}
+TypeError: the parumeters must be number
+    at getAllPalette (C:\Rivky Finklshtean\color 2\server\modules\palette.js:84:15)
+    at C:\Rivky Finklshtean\color 2\server\routers\palette.js:10:21
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:295:15
+    at processParams (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:582:12)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:291:5)
+{"status":"start","time":"2025-05-13T08:19:09.326Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:19:09.338Z","request":"/palette/all","method":"GET","response":500}
+TypeError: the parumeters must be number
+    at getAllPalette (C:\Rivky Finklshtean\color 2\server\modules\palette.js:84:15)
+    at C:\Rivky Finklshtean\color 2\server\routers\palette.js:10:21
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:295:15
+    at processParams (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:582:12)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:291:5)
+{"status":"start","time":"2025-05-13T08:19:09.716Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:19:09.729Z","request":"/palette/all","method":"GET","response":500}
+TypeError: the parumeters must be number
+    at getAllPalette (C:\Rivky Finklshtean\color 2\server\modules\palette.js:84:15)
+    at C:\Rivky Finklshtean\color 2\server\routers\palette.js:10:21
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:295:15
+    at processParams (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:582:12)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:291:5)
+{"status":"start","time":"2025-05-13T08:19:10.024Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:19:10.037Z","request":"/palette/all","method":"GET","response":500}
+TypeError: the parumeters must be number
+    at getAllPalette (C:\Rivky Finklshtean\color 2\server\modules\palette.js:84:15)
+    at C:\Rivky Finklshtean\color 2\server\routers\palette.js:10:21
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:295:15
+    at processParams (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:582:12)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:291:5)
+{"status":"start","time":"2025-05-13T08:19:10.191Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:19:10.202Z","request":"/palette/all","method":"GET","response":500}
+TypeError: the parumeters must be number
+    at getAllPalette (C:\Rivky Finklshtean\color 2\server\modules\palette.js:84:15)
+    at C:\Rivky Finklshtean\color 2\server\routers\palette.js:10:21
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:295:15
+    at processParams (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:582:12)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:291:5)
+{"status":"start","time":"2025-05-13T08:19:10.442Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:19:10.455Z","request":"/palette/all","method":"GET","response":500}
+TypeError: the parumeters must be number
+    at getAllPalette (C:\Rivky Finklshtean\color 2\server\modules\palette.js:84:15)
+    at C:\Rivky Finklshtean\color 2\server\routers\palette.js:10:21
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:295:15
+    at processParams (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:582:12)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:291:5)
+{"status":"start","time":"2025-05-13T08:19:10.624Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:19:10.635Z","request":"/palette/all","method":"GET","response":500}
+TypeError: the parumeters must be number
+    at getAllPalette (C:\Rivky Finklshtean\color 2\server\modules\palette.js:84:15)
+    at C:\Rivky Finklshtean\color 2\server\routers\palette.js:10:21
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:295:15
+    at processParams (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:582:12)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:291:5)
+{"status":"start","time":"2025-05-13T08:19:32.430Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:19:32.446Z","request":"/palette/all","method":"GET","response":500}
+TypeError: the parumeters must be number
+    at getAllPalette (C:\Rivky Finklshtean\color 2\server\modules\palette.js:84:15)
+    at C:\Rivky Finklshtean\color 2\server\routers\palette.js:10:21
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:295:15
+    at processParams (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:582:12)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:291:5)
+{"status":"start","time":"2025-05-13T08:19:35.838Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:19:35.851Z","request":"/palette/all","method":"GET","response":500}
+TypeError: the parumeters must be number
+    at getAllPalette (C:\Rivky Finklshtean\color 2\server\modules\palette.js:84:15)
+    at C:\Rivky Finklshtean\color 2\server\routers\palette.js:10:21
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:295:15
+    at processParams (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:582:12)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:291:5)
+{"status":"start","time":"2025-05-13T08:19:36.765Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:19:36.778Z","request":"/palette/all","method":"GET","response":500}
+TypeError: the parumeters must be number
+    at getAllPalette (C:\Rivky Finklshtean\color 2\server\modules\palette.js:84:15)
+    at C:\Rivky Finklshtean\color 2\server\routers\palette.js:10:21
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:295:15
+    at processParams (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:582:12)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:291:5)
+{"status":"start","time":"2025-05-13T08:22:09.305Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:22:09.334Z","request":"/palette/all","method":"GET","response":500}
+TypeError: the parumeters must be number
+    at getAllPalette (C:\Rivky Finklshtean\color 2\server\modules\palette.js:84:15)
+    at C:\Rivky Finklshtean\color 2\server\routers\palette.js:10:21
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:295:15
+    at processParams (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:582:12)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:291:5)
+{"status":"start","time":"2025-05-13T08:25:41.054Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:25:41.080Z","request":"/palette/all","method":"GET","response":500}
+TypeError: the parumeters must be number
+    at getAllPalette (C:\Rivky Finklshtean\color 2\server\modules\palette.js:85:15)
+    at C:\Rivky Finklshtean\color 2\server\routers\palette.js:10:21
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Rivky Finklshtean\color 2\server\node_modules\router\lib\layer.js:152:17)
+    at C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:295:15
+    at processParams (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:582:12)
+    at next (C:\Rivky Finklshtean\color 2\server\node_modules\router\index.js:291:5)
+{"status":"start","time":"2025-05-13T08:27:51.328Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:27:51.386Z","request":"/palette/all","method":"GET","response":200}
+{"status":"start","time":"2025-05-13T08:33:23.394Z","request":"/palette/create","method":"POST"}
+{"status":"start","time":"2025-05-13T08:34:10.223Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-13T08:34:10.256Z","request":"/palette/create","method":"POST","response":500}
+{"status":"start","time":"2025-05-13T08:37:11.035Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:37:11.059Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T08:43:30.691Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-13T08:43:30.728Z","request":"/palette/create","method":"POST","response":500}
+{"status":"start","time":"2025-05-13T08:43:32.141Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-13T08:43:32.151Z","request":"/palette/create","method":"POST","response":500}
+{"status":"start","time":"2025-05-13T08:43:54.510Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-13T08:43:54.555Z","request":"/palette/create","method":"POST","response":500}
+{"status":"start","time":"2025-05-13T08:44:59.582Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-13T08:44:59.626Z","request":"/palette/create","method":"POST","response":500}
+{"status":"start","time":"2025-05-13T08:50:38.144Z","request":"/palette/create","method":"POST"}
+{"status":"start","time":"2025-05-13T08:50:45.087Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-13T08:50:45.103Z","request":"/palette/create","method":"POST","response":500}
+{"status":"start","time":"2025-05-13T08:51:07.058Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-13T08:51:07.076Z","request":"/palette/create","method":"POST","response":500}
+{"status":"start","time":"2025-05-13T08:51:19.633Z","request":"/palette/create","method":"POST"}
+{"status":"start","time":"2025-05-13T08:51:25.619Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-13T08:51:25.637Z","request":"/palette/create","method":"POST","response":500}
+{"status":"start","time":"2025-05-13T08:53:51.631Z","request":"/palette/create","method":"POST"}
+{"status":"start","time":"2025-05-13T08:54:00.811Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-13T08:54:00.822Z","request":"/palette/create","method":"POST","response":500}
+{"status":"start","time":"2025-05-13T08:54:07.310Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-13T08:54:07.323Z","request":"/palette/create","method":"POST","response":500}
+{"status":"start","time":"2025-05-13T08:55:49.715Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:55:49.809Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T08:55:57.811Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:55:57.828Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T08:58:15.683Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T08:58:15.697Z","request":"/palette/all","method":"GET","response":200}
+{"status":"start","time":"2025-05-13T09:08:49.544Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T09:08:49.599Z","request":"/palette/all","method":"GET","response":200}
+{"status":"start","time":"2025-05-13T09:09:25.138Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T09:09:25.158Z","request":"/palette/all","method":"GET","response":200}
+{"status":"start","time":"2025-05-13T09:09:44.141Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T09:09:44.160Z","request":"/palette/all","method":"GET","response":200}
+{"status":"start","time":"2025-05-13T09:14:38.793Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T09:14:38.831Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:18:23.773Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:18:23.864Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:20:47.243Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:20:47.266Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:20:49.690Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:20:49.705Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:21:04.685Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:21:04.709Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:27:06.709Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:27:06.855Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:27:16.781Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:27:16.800Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:27:18.726Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:27:18.741Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:27:24.684Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:27:24.697Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:27:26.739Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:27:26.759Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:27:32.708Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:27:32.724Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:27:34.738Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:27:34.753Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:27:36.675Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:27:36.692Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:27:39.741Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:27:39.756Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:29:15.784Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:29:15.821Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:34:39.779Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:34:39.825Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:34:44.810Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:34:44.827Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:34:46.701Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:34:46.714Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:35:02.770Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:35:02.790Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:35:04.728Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:35:04.743Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:36:10.439Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:36:10.461Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:36:10.905Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:36:10.919Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:36:45.526Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:36:45.553Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:36:53.853Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:36:53.869Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:38:19.786Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:38:19.814Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:39:14.065Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:39:14.091Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:39:23.663Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:39:23.685Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:39:28.738Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:39:28.755Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:39:34.776Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:39:34.794Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:42:38.396Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:42:38.420Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:43:04.759Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:43:04.784Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:43:08.696Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:43:08.713Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:43:10.518Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:43:10.535Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:43:20.302Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:43:20.324Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:43:30.486Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:43:30.504Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:44:17.438Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:44:17.463Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:45:18.457Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:45:18.479Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:47:31.090Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:47:31.121Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:47:53.741Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:47:53.775Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:55:57.954Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:55:57.978Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T10:56:03.307Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T10:56:03.321Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T11:28:17.987Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T11:28:18.014Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T11:30:58.740Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T11:30:58.759Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T11:36:20.521Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T11:36:20.544Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T11:44:40.234Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T11:44:40.259Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-13T11:44:45.210Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-13T11:44:45.222Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T06:11:13.778Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:11:13.922Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T06:11:18.237Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:11:18.254Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T06:11:22.435Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:11:22.452Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T06:12:01.407Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-20T06:12:01.466Z","request":"/palette/create","method":"POST","response":500}
+{"status":"start","time":"2025-05-20T06:15:14.669Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-20T06:15:14.713Z","request":"/palette/create","method":"POST","response":500}
+{"status":"start","time":"2025-05-20T06:16:27.961Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-20T06:16:28.027Z","request":"/palette/create","method":"POST","response":201}
+{"status":"start","time":"2025-05-20T06:16:47.597Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:16:47.622Z","request":"/palette/all","method":"GET","response":200}
+{"status":"start","time":"2025-05-20T06:17:21.623Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-20T06:17:21.675Z","request":"/palette/create","method":"POST","response":201}
+{"status":"start","time":"2025-05-20T06:17:30.190Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:17:30.228Z","request":"/palette/all","method":"GET","response":200}
+{"status":"start","time":"2025-05-20T06:21:02.965Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:21:02.983Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T06:21:03.229Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:21:03.250Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T06:21:06.211Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:21:06.220Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T06:21:06.332Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:21:06.342Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T06:23:16.157Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:23:16.174Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T06:23:16.241Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:23:16.254Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T06:23:49.733Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:23:49.748Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T06:23:49.801Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:23:49.812Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T06:34:38.081Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:34:38.106Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T06:38:33.845Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:38:33.863Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T06:39:25.399Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T06:39:25.428Z","request":"/palette/all","method":"GET","response":304}
+{"status":"start","time":"2025-05-20T07:52:35.352Z","request":"/palette/create","method":"POST"}
+{"status":"end","time":"2025-05-20T07:52:35.409Z","request":"/palette/create","method":"POST","response":201}
+{"status":"start","time":"2025-05-20T07:52:56.604Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T07:52:56.620Z","request":"/palette/all","method":"GET","response":200}
+{"status":"start","time":"2025-05-20T10:23:07.576Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-20T10:23:07.625Z","request":"/palette/all","method":"GET","response":200}
+{"status":"start","time":"2025-05-27T08:22:26.099Z","request":"/palette/all","method":"GET"}
+{"status":"end","time":"2025-05-27T08:22:26.150Z","request":"/palette/all","method":"GET","response":304}
